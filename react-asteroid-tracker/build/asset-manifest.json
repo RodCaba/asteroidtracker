@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2dcee7d.chunk.css",
+    "main.js": "/static/js/main.010a7816.chunk.js",
+    "main.js.map": "/static/js/main.010a7816.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b952d99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b952d99.js.map",
+    "static/js/2.7b1ed61c.chunk.js": "/static/js/2.7b1ed61c.chunk.js",
+    "static/js/2.7b1ed61c.chunk.js.map": "/static/js/2.7b1ed61c.chunk.js.map",
+    "static/js/3.bf342621.chunk.js": "/static/js/3.bf342621.chunk.js",
+    "static/js/3.bf342621.chunk.js.map": "/static/js/3.bf342621.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b05e58fdd5ec0a7a5c5f30c74cecc40d.js": "/precache-manifest.b05e58fdd5ec0a7a5c5f30c74cecc40d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e2dcee7d.chunk.css.map": "/static/css/main.e2dcee7d.chunk.css.map",
+    "static/js/2.7b1ed61c.chunk.js.LICENSE.txt": "/static/js/2.7b1ed61c.chunk.js.LICENSE.txt",
+    "static/media/2k_haumea_fictional.jpg": "/static/media/2k_haumea_fictional.11888d39.jpg",
+    "static/media/4k_ceres_fictional.jpg": "/static/media/4k_ceres_fictional.45a7cc66.jpg",
+    "static/media/4k_eris_fictional.jpg": "/static/media/4k_eris_fictional.d09af55d.jpg",
+    "static/media/4k_makemake_fictional.jpg": "/static/media/4k_makemake_fictional.220997ea.jpg",
+    "static/media/8k_earth_clouds.jpg": "/static/media/8k_earth_clouds.bb0ab696.jpg",
+    "static/media/8k_earth_daymap.jpg": "/static/media/8k_earth_daymap.45ae6884.jpg",
+    "static/media/8k_earth_normal_map.jpg": "/static/media/8k_earth_normal_map.b2b5477e.jpg",
+    "static/media/8k_earth_specular_map.jpg": "/static/media/8k_earth_specular_map.c1b24d36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b952d99.js",
+    "static/js/2.7b1ed61c.chunk.js",
+    "static/css/main.e2dcee7d.chunk.css",
+    "static/js/main.010a7816.chunk.js"
+  ]
+}

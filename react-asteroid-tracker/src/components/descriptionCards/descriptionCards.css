@@ -1,0 +1,34 @@
+.descriptionCardDiv{
+    position: absolute;
+    top: 7%;
+    left: 60%;
+    z-index: 2;
+    opacity: 0.7;
+    text-align: center;
+}
+
+.informativeCardDiv{
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    z-index: 2;
+    opacity: 0.7;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+        .descriptionCardDiv{
+            top: 7%;
+            left: 0;
+        }
+
+        .informativeCardDiv{
+            top: 15%;
+        }
+}
+
+@media only screen and (max-width: 464px) {
+        .descriptionCardDiv{
+            top: 15%;
+        }
+}

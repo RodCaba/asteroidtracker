@@ -1,0 +1,33 @@
+{
+  "name": "reactasteroidtracker",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd react-asteroid-tracker && npm run build",
+    "install-client": "cd react-asteroid-tracker && npm install",
+    "heroku-postbuild": "npm run install-client && npm run build",
+    "start": "node server.js",
+    "client": "cd react-asteroid-tracker && npm start",
+    "dev": "concurrently -n \"server, client\" -c \"red, green\" \"nodemon server.js\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "camera-controls": "^1.30.0",
+    "concurrently": "^6.3.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.6",
+    "nodemon": "^2.0.14",
+    "react-loading": "^2.0.3",
+    "three": "^0.131.3"
+  }
+}
